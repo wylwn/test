@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dwzHtml"
+  id="myeclipse.1429759620634"
+  context-root="/dwzHtml"
+  j2ee-spec="5.0"
+  archive="dwzHtml.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

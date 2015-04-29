@@ -1,0 +1,44 @@
+/* CSS Document 2009.8 */
+body { text-align: center; font-family:"ËÎÌו", arial;margin:0; padding:0; background: #FFF; font-size:12px; color:#000;}
+div,form,img,ul,ol,li,dl,dt,dd {margin: 0; padding: 0; border: 0; }
+li{list-style-type:none;}
+img{vertical-align:top;}
+strong{font-weight:normal;}
+em {font-style:normal;}
+h1,h2,h3,h4,h5,h6 { margin:0; padding:0;font-size:12px; font-weight:normal;}
+/* Link */
+a:link {color: #000; text-decoration:none;}
+a:visited {color: #111;text-decoration:none;}
+a:hover {color: #0091f7; text-decoration:none;}
+a:active {color: #000;}
+/* Color */
+.cRed,a.cRed:link,a.cRed:visited{ color:#f00; }
+.cBlue,a.cBlue:link,a.cBlue:visited,a.cBlue:active{color:#1f3a87;}
+.cDRed,a.cDRed:link,a.cDRed:visited{ color:#bc2931;}
+.cGray,a.cGray:link,a.cGray:visited{ color: #4F544D;}
+.cDGray,a.cDGray:link,a.cDGray:visited{ color: #666;}
+.cWhite,a.cWhite:link,a.cWhite:visited{ color:#fff;}
+.cBlack,a.cBlack:link,a.cBlack:visited{color:#000;}
+a.cBlack:hover{color:#bc2931;}
+.cYellow,a.cYellow:link,a.cYellow:visited{color:#ff0;}
+.cGreen,a.cGreen:link,a.cGreen:visited{color:#008000;}
+/* Font  */
+.fB {font-weight: bold;}
+.fn {font-weight: normal; font-size:12px;}
+.f12px{ font-size:12px;}
+.f14px{ font-size:14px;}
+
+/* Other */
+.left{ float: left;}
+.right{ float: right;}
+.clear{ clear: both; font-size:1px; width:1px; height:0; visibility: hidden; }
+.clearfix:after{content:"."; display:block; height: 0; clear: both; visibility: hidden;} /* only FF */
+.hidden {display: none;}
+.unLine ,.unLine a{text-decoration: none;}
+.noBorder{border:none;	}
+.blank10{ height:10px; font-size:1px;display:block; clear:both;overflow:hidden;}
+.blank5{ height:5px; font-size:1px;display:block; clear:both;overflow:hidden;}
+.blank0{ height:0px; font-size:1px;display:block; clear:both;overflow:hidden;}
+.xian{ height:px; font-size:1px;display:block; clear:both;overflow:hidden; border-bottom:1px #999 dashed;margin:0 10px 0 30px;}
+/* Structure */
+.area{margin:0 auto; width:960px; clear:both;}
